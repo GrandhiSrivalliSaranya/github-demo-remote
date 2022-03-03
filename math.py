@@ -4,8 +4,8 @@ def add(a,b):
     return a+b
 #subtract
 #subtract implementation
-def subtract(x,y):
-    return x-y
+def subtract(a,b):
+    return a-b
 #multiply
 #multiply implementation
 def multiply(x,y):
