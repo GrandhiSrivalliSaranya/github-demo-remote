@@ -8,8 +8,8 @@ def subtract(a,b):
     return a-b
 #multiply
 #multiply implementation
-def multiply(x,y):
-    return x*y    #on bug789
+def multiply(a,b):
+    return a*b    #on local repo
 #divide
 #divide implementation
 def divide(x,y):
